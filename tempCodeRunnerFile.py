@@ -1,0 +1,1 @@
+app.config['MONGO_URI'] = 'mongodb+srv://ramesh5945:7075818464@cluster11.jqqtbo5.mongodb.net/?retryWrites=true&w=majority'
